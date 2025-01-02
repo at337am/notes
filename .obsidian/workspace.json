@@ -11,8 +11,12 @@
             "id": "bcd4fcaa80190aae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "other/随便写点.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "other/随便写点.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "other/随便写点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "other/随便写点.md"
+              }
             }
           }
         ],
@@ -152,9 +160,9 @@
   },
   "active": "bcd4fcaa80190aae",
   "lastOpenFiles": [
+    "other/书签.md",
     "lib/Git.md",
     "lib/一些笔记.md",
-    "other/书签.md",
     "other/随便写点.md",
     "README.md",
     "archive/kde_fedora_doc.md",
