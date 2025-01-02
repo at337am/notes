@@ -1,0 +1,21 @@
+{
+  "spellcheck": false,
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "attachmentFolderPath": "other",
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "autoPairMarkdown": true,
+  "smartIndentList": true,
+  "focusNewTab": true,
+  "autoConvertHtml": false,
+  "showInlineTitle": true
+}

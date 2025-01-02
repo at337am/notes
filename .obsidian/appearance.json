@@ -1,0 +1,13 @@
+{
+  "accentColor": "",
+  "cssTheme": "Border",
+  "theme": "obsidian",
+  "baseFontSize": 16,
+  "textFontFamily": "JetBrains Mono NL,霞鹜文楷",
+  "monospaceFontFamily": "JetBrains Mono NL,霞鹜文楷",
+  "interfaceFontFamily": "JetBrains Mono NL,冬青黑体简体中文 W5",
+  "baseFontSizeAction": false,
+  "translucency": false,
+  "showViewHeader": true,
+  "nativeMenus": false
+}
