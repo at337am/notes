@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2b289bc42f0aec23",
+        "id": "40e73f6e022eb5a7",
         "type": "tabs",
         "children": [
           {
-            "id": "1b32268304a0fd8c",
+            "id": "61ade0a3d3297411",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lib/Git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lib/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "lib/Git.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -156,13 +152,14 @@
   },
   "active": "4793a6edf95cbf4b",
   "lastOpenFiles": [
-    "lib/一些笔记.md",
+    "phone_number_250104.md",
+    "other/书签.md",
+    "other/随便写点.md",
     "lib/Git.md",
+    "lib/一些笔记.md",
     "archive/application_tips.md",
     "archive/fedora_doc.md",
     "archive/kde_fedora_doc.md",
-    "other/随便写点.md",
-    "other/书签.md",
     "README.md",
     "dev/文件映射 nginx-files.md",
     "dev/wow.md",
