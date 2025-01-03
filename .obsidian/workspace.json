@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "40b517da6b4083aa",
+        "id": "2b289bc42f0aec23",
         "type": "tabs",
         "children": [
           {
-            "id": "67bd4ad984acef78",
+            "id": "1b32268304a0fd8c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "other/书签.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "other/书签.md",
+                "file": "lib/Git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "other/书签.md",
+                "file": "lib/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "other/书签.md"
+                "file": "lib/Git.md"
               }
             }
           }
@@ -158,16 +154,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "67bd4ad984acef78",
+  "active": "4793a6edf95cbf4b",
   "lastOpenFiles": [
-    "other/随便写点.md",
-    "README.md",
-    "other/书签.md",
-    "lib/Git.md",
     "lib/一些笔记.md",
-    "archive/kde_fedora_doc.md",
-    "archive/fedora_doc.md",
+    "lib/Git.md",
     "archive/application_tips.md",
+    "archive/fedora_doc.md",
+    "archive/kde_fedora_doc.md",
+    "other/随便写点.md",
+    "other/书签.md",
+    "README.md",
     "dev/文件映射 nginx-files.md",
     "dev/wow.md",
     "dev/spring-websocket-base.md",
