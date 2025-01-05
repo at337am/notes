@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ed37cc11320033cd",
+        "id": "07dbe52f8d7862a8",
         "type": "tabs",
         "children": [
           {
-            "id": "f8860cdf421f3f99",
+            "id": "53b9c5afbee9a5b7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "other/书签.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "other/书签.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "other/书签.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "other/书签.md"
+              }
             }
           }
         ],
@@ -150,10 +158,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4793a6edf95cbf4b",
+  "active": "53b9c5afbee9a5b7",
   "lastOpenFiles": [
-    "other/书签.md",
     "other/随便写点.md",
+    "other/书签.md",
     "lib/一些笔记.md",
     "lib/Git.md",
     "phone_number_250104.md",
