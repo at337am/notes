@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "40e73f6e022eb5a7",
+        "id": "ed37cc11320033cd",
         "type": "tabs",
         "children": [
           {
-            "id": "61ade0a3d3297411",
+            "id": "f8860cdf421f3f99",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -152,11 +152,11 @@
   },
   "active": "4793a6edf95cbf4b",
   "lastOpenFiles": [
-    "phone_number_250104.md",
     "other/书签.md",
     "other/随便写点.md",
-    "lib/Git.md",
     "lib/一些笔记.md",
+    "lib/Git.md",
+    "phone_number_250104.md",
     "archive/application_tips.md",
     "archive/fedora_doc.md",
     "archive/kde_fedora_doc.md",
