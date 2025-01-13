@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b99fcf1569d9bfeb",
+        "id": "0fb1716f9287dee3",
         "type": "tabs",
         "children": [
           {
-            "id": "7a1f270e7d1e6295",
+            "id": "da9935c35f354b5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -158,17 +158,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7a1f270e7d1e6295",
+  "active": "da9935c35f354b5a",
   "lastOpenFiles": [
     "other/随便写点.md",
     "other/书签.md",
-    "lib/一些笔记.md",
+    "README.md",
     "lib/Git.md",
-    "phone_number_250104.md",
+    "lib/一些笔记.md",
     "archive/application_tips.md",
     "archive/fedora_doc.md",
     "archive/kde_fedora_doc.md",
-    "README.md",
+    "phone_number_250104.md",
     "dev/文件映射 nginx-files.md",
     "dev/wow.md",
     "dev/spring-websocket-base.md",
